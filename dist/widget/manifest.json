@@ -1,5 +1,5 @@
 {
-  "lang-cs-index-json.js": "https://testcompositionapi.netlify.app/widget/js/lang-cs-index-json.c5ff5184.chunk.js",
-  "lang-en-index-json.js": "https://testcompositionapi.netlify.app/widget/js/lang-en-index-json.7b18e13b.chunk.js",
+  "lang-cs-index-json.js": "https://testcompositionapi.netlify.app/widget/js/lang-cs-index-json.chunk.js",
+  "lang-en-index-json.js": "https://testcompositionapi.netlify.app/widget/js/lang-en-index-json.chunk.js",
   "widget.js": "https://testcompositionapi.netlify.app/widget/js/widget.bundle.js"
 }
